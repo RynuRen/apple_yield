@@ -6,7 +6,7 @@
 2022.11.28 ~ 2022.12.08
 
 ### 참여 인원
-* [@곽지섭](https://github.com/ksm463): 데이터 전처리, 머신러닝, 코드관리
+* [@곽지섭](https://github.com/RynuRen): 데이터 전처리, 머신러닝, 코드관리
 * [@김성민](https://github.com/ksm463): 데이터 전처리, 머신러닝, 발표
 * [@김태성](https://github.com/chamgirm): 데이터 전처리, ppt, 시각화
 * [@이충훈](https://github.com/mysterious-Alchemist): 데이터 전처리, ppt, 시각화
